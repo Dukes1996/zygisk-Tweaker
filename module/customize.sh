@@ -35,7 +35,7 @@ if [ -n "$rate_from_surface" ]; then
 elif [ -n "$rate_from_display" ]; then
     rate "$rate_from_display"
 else
-    rate 90
+    rate 144
 fi
 
 
