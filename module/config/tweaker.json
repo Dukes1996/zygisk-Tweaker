@@ -260,7 +260,7 @@
                 "package": ["com.riotgames.league.teamfighttactics", "com.tencent.jkchess", "com.sofunny.Sausage", "com.garena.game.codm"],
                 "settings": {
                     "fps": 144,
-                    "time": 15,
+                    "time": 0,
                     "width": 0,
                     "height": 0,
                     "lock_fps": true
